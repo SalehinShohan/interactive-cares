@@ -12,7 +12,7 @@ const Leading = () => {
         <Marquee className="text-zinc-500 mt-2 font-mono">
           Experience hassle free bookings. Trusted by 2500+ Customers
         </Marquee>
-        <div className="flex items-center justify-center mt-6">
+        <div className="flex justify-center items-center mt-6">
           <div>
             <input
               className="border border-black rounded-xl p-2 h-8 w-[300px] md:w-[450px]"

@@ -24,7 +24,7 @@ const Popup = () => {
         isOpen ? "block" : "hidden"
       } z-50 bg-black bg-opacity-70 text-white`}
     >
-      <div className="w-2/3 md:w-[800px] lg:w-[900px] p-6 rounded-lg shadow-lg bg-white bg-opacity-90 relative">
+      <div className="w-2/3 md:w-[900px] lg:w-[900px] p-6 rounded-lg shadow-lg bg-white bg-opacity-90 relative">
         <button
           className="absolute top-2 right-2 text-red-500 hover:text-red-700 cursor-pointer"
           onClick={handleClose}
