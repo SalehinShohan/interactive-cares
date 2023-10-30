@@ -17,11 +17,11 @@ const Leading = () => {
             <input
               className="border border-black rounded-xl p-2 h-8 w-[300px] md:w-[450px]"
               type="text"
-              placeholder="Search service, blog and many more…"
+              placeholder="Search service..."
             />
           </div>
-          <div className="absolute right-[0] md:right-[600px] lg:right-[650px]">
-            <button className="bg-black text-white px-10 py-1 rounded-xl">
+          <div className="absolute right-[30px] md:right-[600px] lg:right-[700px]">
+            <button className="bg-black text-white px-5 md:px-10 py-1 rounded-xl">
               Search
             </button>
           </div>

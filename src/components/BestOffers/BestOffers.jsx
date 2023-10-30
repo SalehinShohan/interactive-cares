@@ -16,7 +16,7 @@ const BestOffers = () => {
         <p className="text-center mb-5">
           Discover the best offers on our services
         </p>
-        <div className="grid grid-cols-1 lg:grid-cols-4 md:ml-10 ml-20">
+        <div className="grid grid-cols-1 lg:grid-cols-4 md:ml-10 ml-10">
           <div data-aos="flip-up">
             <div className="card w-52 h-64 shadow-2xl image-full">
               <figure>

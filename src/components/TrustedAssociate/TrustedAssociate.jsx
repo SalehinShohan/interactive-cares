@@ -33,7 +33,7 @@ const TrustedAssociate = () => {
 
 const renderAssociateCard = (imageSrc, name, location) => {
   return (
-    <div className="p-4 md:p-8 ml-16 md:ml-0 lg:ml-0">
+    <div className="p-4 md:p-8 ml-10 md:ml-0 lg:ml-0">
       <div className="card card-compact w-48 bg-[#2C2C2C] shadow-xl">
         <figure>
           <img src={imageSrc} alt="" />
