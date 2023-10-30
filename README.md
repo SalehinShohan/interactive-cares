@@ -16,7 +16,7 @@
 - Fourth run the project in command line (npm run dev)
 
 # Live Site Link:
-https://creative-connotations.web.app/
+
 
 
 # GitHub Code Link:
