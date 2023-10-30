@@ -21,11 +21,11 @@ const TrustedAssociate = () => {
         </div>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-5 gap-4 md:gap-8 px-4 md:px-8 lg:px-16">
-        {renderAssociateCard(ass1, "Name Title 1", "Location: Dhaka, Gulsan-1")}
-        {renderAssociateCard(ass2, "Name Title 2", "Location: Dhaka, Gulsan-1")}
-        {renderAssociateCard(ass3, "Name Title 3", "Location: Dhaka, Gulsan-1")}
-        {renderAssociateCard(ass4, "Name Title 4", "Location: Dhaka, Gulsan-1")}
-        {renderAssociateCard(ass5, "Name Title 5", "Location: Dhaka, Gulsan-1")}
+        {renderAssociateCard(ass1, "Selina Gomez", "Location: Dhaka, Gulsan-1")}
+        {renderAssociateCard(ass2, "Gort's Zam", "Location: Dhaka, Gulsan-1")}
+        {renderAssociateCard(ass3, "Nikols Tim", "Location: Dhaka, Gulsan-1")}
+        {renderAssociateCard(ass4, "Jamis Hila", "Location: Dhaka, Gulsan-1")}
+        {renderAssociateCard(ass5, "Maria Hons", "Location: Dhaka, Gulsan-1")}
       </div>
     </div>
   );
