@@ -1,4 +1,3 @@
-// import Awards from "../Awards/Awards";
 import Banner from "../Banner/Banner";
 import BestOffers from "../BestOffers/BestOffers";
 import Blog from "../Blog/Blog";
@@ -23,7 +22,6 @@ const Home = () => {
       <RealWedding></RealWedding>
       <BestOffers></BestOffers>
       <Testimonials></Testimonials>
-      {/* <Awards></Awards> */}
       <OurSuccess></OurSuccess>
       <Photography></Photography>
     </div>

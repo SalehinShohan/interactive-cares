@@ -1,6 +1,7 @@
 import { Outlet } from "react-router-dom";
 import Navbar from "../Navbar/Navbar";
 import FooterPage from "../FooterPage/FooterPage";
+import GoToTop from "../GoToTop/GoToTop";
 
 const Main = () => {
   return (
@@ -10,6 +11,7 @@ const Main = () => {
         <Outlet></Outlet>
       </div>
       <FooterPage></FooterPage>
+      <GoToTop></GoToTop>
     </div>
   );
 };
